@@ -1,8 +1,4 @@
-I am a 4th Year IT undergraduate at SLIIT campus with a strong interest in starting my career in Software
-development.
-
-I would like to learn and gather experience in projects, while performing my tasks with commitment and
-dedication in line with organizational objectives.
-
-I am willing to take the opportunity to be part of an organization that utilizes my competence and skills
-towards the growth of the organization.
+I am an Information Technology graduate at SLIIT. I have a strong interest in the position of Software 
+Engineer Intern. 
+With my problem-solving mindset and an eagerness to learn new technologies, I believe I 
+can make a valuable contribution to your organization in a dynamic working environment.
